@@ -1,13 +1,8 @@
 Mandi Mitra AI 🇮🇳🤖
 
-  
+An AI-powered purchasing assistant for India's street food vendors.
 
-
-  An AI-powered purchasing assistant for India's street food vendors.
-  
-
-  Built with React, Supabase, and a passion for empowering small businesses.
-
+Built with React, Supabase, and a passion for empowering small businesses.
 
   Key Features •
   Tech Stack •
@@ -58,22 +53,17 @@ Installation & Setup
 Clone the repository:
 
 
-git clone https://github.com/your-username/mandi-mitra-ai.git
+git clone https://github.com/SaM-005X/mandi-mitra-ai.git
 cd mandi-mitra-ai
-Install dependencies:
-
 
 npm install
-Set up your environment variables:
+
 
 Create a Supabase project.
 In the Supabase dashboard, go to Project Settings > API.
 Create a file named .env in the root of your project.
 Copy the Project URL and anon (public) key into your .env file:
 
-VITE_SUPABASE_URL=YOUR_SUPABASE_URL
-VITE_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
-Set up the database schema:
 
 In the Supabase dashboard, go to the SQL Editor.
 Copy the contents of the SQL files from the /supabase/migrations directory in this project.
