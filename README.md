@@ -30,10 +30,11 @@ npm run dev The application should now be running on http://localhost:5173.
 
 Sign in method:-
 
-press the button get started.
-enter your name, email and set up password.
-authenticate your email by verifying it upon pressing the link sent to your email.
-come back to the sign in page and put your email and password to go to your personal dashboard.
-🤝 Contributing Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+1) press the button get started.
+2) enter your name, email and set up password.
+3) authenticate your email by verifying it upon pressing the link sent to your email.
+4) come back to the sign in page and put your email and password to go to your personal dashboard.
+
+Contributing Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 📜 License This project is licensed under the MIT License. See the LICENSE file for details.
